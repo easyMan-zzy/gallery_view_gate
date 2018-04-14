@@ -1,7 +1,7 @@
 //这里是要添加的城市链接
 var subSys_hangzhou = "http://47.97.173.174:8081/front/kphlsecond.html";
 var subSys_ningbo = "http://47.97.173.174:8080/front/kphlsecond.html";
-var subSys_quzhou = "";
+var subSys_quzhou = "http://kphl.qzkx.gov.cn:8081/front/kphlsecond.html";
 var subSys_zhousan = "";
 
 $('#firstToHZ').click(function() {
